@@ -1,7 +1,8 @@
 # Business-Insights-360
 **Project Overview**  
 This project is designed to highlight the development of a company ‘AtliQ’ in the FMCG domain, a leading company in electronics market. The project aims at increasing the decision-making capability by understanding the data in various operations of the organization from **Power BI** based analytics.  
-**Project Link:** _[view here](<iframe title="Business Insights360" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOTM2NDQ1ODYtZjc2OS00NjhiLTgxNjItNjIxOTg2Zjg5MjA5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>)   
+**Project Link:**  
+[view here]("https://app.powerbi.com/view?r=eyJrIjoiOTM2NDQ1ODYtZjc2OS00NjhiLTgxNjItNjIxOTg2Zjg5MjA5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9")   
 **Problem Statement**  
 After expansion across the globe ‘AtliQ’ started facing challenges in Latin America to solve complex problems, leading to losses in business and irregularities.  
 **Objective**  
